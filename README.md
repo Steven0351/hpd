@@ -1,16 +1,15 @@
 ## High Plains Drifter is a modular, curved mechanical keyboard that is ready to change the way you think about ergonomics in typing!  
-*Innovative design that allows easy access to all keys, and specially designed modules that make the keyboard a unique tool, exclusively for your purpose.*
+*Innovative design that allows easy access to all keys, and specially designed modules that make the keyboard a unique tool, exclusively for your purpose*
 
 ![HPD v2](images/01.png)
 
 ## Design philosphy
-This keyboard was designed with FDM printing in mind, the goal was to create a perfect curved case that can be easily printed and looks aesthetically pleasing with minimal amount of so called "steps" that plague similar 3D keyboards like Dactyl Manuform, it's design is similar to the [Velvet v3](https://github.com/ergohaven/velvet) keyboard but with the addition of various interchangeable modules
+This keyboard was designed with FDM printing in mind, the goal was to create a perfect curved case that can be easily printed and looks aesthetically pleasing with minimal amount of so called "steps" that plague similar 3D keyboards like Dactyl Manuform, it's design is similar to the [Velvet v3](https://github.com/ergohaven/velvet) keyboard but with 60% layout and addition of various interchangeable modules
 ![HPD v2](images/02.png)
 ![HPD v2](images/03.png)
 
 
 ## Features
- 
 - Modular, ergonomic 3D design
 - 60 fully programmable keys, 15 additional layers for all your tasks
 - Powered by RP2040 Zero and QMK firmware
