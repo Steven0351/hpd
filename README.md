@@ -27,7 +27,8 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 Coming soon
 
 ### BOM
-#### Switchplate + thumb keys + MCU holder
+#### Main case
+- Switchplate + thumb keys + MCU holder PCBs
 - 2   RP2040 Zero MCU
 - 60 MX Hotswap sockets
 - 60 1N4148W Diodes (SOD-123)
@@ -45,6 +46,7 @@ Coming soon
 - 4 3M bumpons (8mm)
 
 #### Encoder module
+- Encoder PCB
 - 1 Encoder EC11
 - 1 Encoder cap
 - 1 Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree
@@ -54,6 +56,7 @@ Coming soon
 - 2 3M bumpons (8mm)
 
 #### Touchpad module
+- Touchpad PCB
 - 1 Azoteq TPS43
 - 1 Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree
 - 1 Connector PH2.0 4 pins, 2mm, 90 degree
@@ -65,6 +68,7 @@ Coming soon
 
 
 #### Trackball module
+- Trackball PCB
 - 1 PWM3389 sensor
 - 1 TPS73601DBVR
 - 1 Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree
