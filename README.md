@@ -41,18 +41,28 @@ Coming soon
 - 32 M2x4 Screws
 - 10 M3x5 Inserts
 - 10 M3x4 Screws
+- 4 Magnets (5х10х2mm)
+- 4 3M bumpons (8mm)
 
 #### Encoder module
 - 1 Encoder EC11
+- 1 Encoder cap
 - 1 Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree
 - 1 1N4148W Diodes (SOD-123)
 - 1 LED SK6812 mini-e
+- 2 Magnets (5х10х2mm)
+- 2 3M bumpons (8mm)
 
-- Touchpad module
+#### Touchpad module
 - 1 Azoteq TPS43
 - 1 Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree
 - 1 Connector PH2.0 4 pins, 2mm, 90 degree
 - 1 Cable connector PH2.0 4 Pins, 2mm, 6mm, one head
+- 2 Magnets (5х10х2mm)
+- 1 plate 40x43x1 mm with rounding 3mm
+- 1 PVC 40x43 mm sticker with rounding 3mm
+- 2 3M bumpons (8mm)
+
 
 #### Trackball module
 - 1 PWM3389 sensor
@@ -66,6 +76,12 @@ Coming soon
 - 1 Capacitor 0805 1 uF
 - 1 Capacitor 0805 4.7 uF
 - 1 Capacitor 0805 10 uF
+- 2 Magnets (5х10х2mm)
+- 2 3M bumpons (8mm)
+- 38mm billiard ball
+- 3 bearings (6x2.5mm)
+- 3 screws (M3x8)
+
 
 ## License 
 
