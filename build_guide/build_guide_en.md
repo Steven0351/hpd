@@ -195,22 +195,22 @@ Apply solder to one of the large side pads to fix the connector's position
 Place the connector and solder the remaining pins. Ensure the side mounting tabs are securely soldered for mechanical strength.
 ![image](photo/10.JPG)
 ![image](photo/11.JPG)
-![image](photo/12.JPG)
+![image](photo/12.jpg)
 
 #### Installing PBS 11-Pin and 9-Pin sockets
 
 Solder one end pin of the PBS 11-Pin socket first to fix its position. Then solder the remaining pins.
-![image](photo/13.JPG)
-![image](photo/14.JPG)
-![image](photo/15.JPG)
+![image](photo/13.jpg)
+![image](photo/14.jpg)
+![image](photo/15.jpg)
 
 Then, solder the PBS 9-Pin sockets, positioning them as shown in the picture.
-![image](photo/16.JPG)
-![image](photo/17.JPG)
+![image](photo/16.jpg)
+![image](photo/17.jpg)
 
 Afterward, trim the pins on the reverse side using nippers.
-![image](photo/18.JPG)
-![image](photo/19.JPG)
+![image](photo/18.jpg)
+![image](photo/19.jpg)
 
 #### Microcontroller firmware
 
@@ -228,7 +228,7 @@ Hold down the 'Boot' button on the microcontroller while connecting the USB cabl
 #### Applying solder to contact pads
 
 First, prepare the PCB. Apply a small amount of solder to one pad for each component location (diodes and sockets). This makes soldering the components easier.
-![image](photo/20.JPG)
+![image](photo/20.jpg)
 
 #### Installing hotswap sockets and diodes
 
@@ -236,106 +236,106 @@ Diodes have polarity; install them correctly. The cathode is marked with a white
 All diodes must be installed in the same direction. Solder the diode first to the pre-tinned pad, then solder the other pad.
 
 Next, install the hotswap sockets and solder them. Solder one pin first, check alignment, then solder the second pin.
-![image](photo/21.JPG)
+![image](photo/21.jpg)
 
 ### Preparing the thumb cluster PCB
 
 #### Installing SH1.0 5 Pins, 1.00mm connectors
 
 Solder the connector similarly to how it was done on the holder PCB. Pay attention that the side mounting tabs are securely soldered.
-![image](photo/22.JPG)
-![image](photo/23.JPG)
-![image](photo/24.JPG)
+![image](photo/22.jpg)
+![image](photo/23.jpg)
+![image](photo/24.jpg)
 
 #### Applying solder and installing components
 
 Apply solder to one pad for each diode and socket location. Install and solder the diodes (observing polarity) and hotswap sockets, just like on the main switchplate.
-![image](photo/29.JPG)
+![image](photo/25.jpg)
 
 ### Preparing the trackball module PCB
 
 #### Installation of the TPS73601DBVR IC
 
 Apply solder to the large central pad (thermal pad) to help fix the IC's position.
-![image](photo/26.JPG)
+![image](photo/26.jpg)
 
 Next, position the IC correctly (check pin 1 indicator) and solder it.
-![image](photo/27.JPG)
-![image](photo/28.JPG)
+![image](photo/27.jpg)
+![image](photo/28.jpg)
 
 #### Applying solder to contact pads
 
 Apply solder to one pad for each resistor and capacitor location.
-![image](photo/29.JPG)
+![image](photo/29.jpg)
 
 #### Installation of resistors and capacitors
 
 Solder all resistors and capacitors according to the silkscreen markings. These components do not have polarity.
-![image](photo/30.JPG)
+![image](photo/30.jpg)
 
 #### Installation of the PMW3389DM sensor
 
 Position the sensor aligning the mark/notch on the sensor with the mark on the PCB ("mark to mark") as shown, and solder its pins.
-![image](photo/31.JPG)
-![image](photo/32.JPG)
+![image](photo/31.jpg)
+![image](photo/32.jpg)
 
 #### Installation of PLS pin connectors
 
 Solder one end pin first to fix the position. Then solder the remaining pins.
-![image](photo/33.JPG)
-![image](photo/34.JPG)
+![image](photo/33.jpg)
+![image](photo/34.jpg)
 
 Trim the pins on the reverse side.
-![image](photo/35.JPG)
+![image](photo/35.jpg)
 
 #### Installation of the lens
 
 Peel off both protective films.
-![image](photo/36.JPG)
+![image](photo/36.jpg)
 
 Place the lens onto the sensor alignment posts. Carefully melt the two plastic posts using the soldering iron tip to secure the lens to the sensor assembly.
-![image](photo/37.JPG)
-![image](photo/38.JPG)
-![image](photo/39.JPG)
+![image](photo/37.jpg)
+![image](photo/38.jpg)
+![image](photo/39.jpg)
 
 ### Preparing the encoder module PCB
 
 #### Installation of 1N4148W diodes (SOD-123)
 
 Solder the diodes, remembering the polarity ("line to line").
-![image](photo/40.JPG)
+![image](photo/40.jpg)
 
 #### Installation of sk6812 mini-e LEDs
 
 Apply solder to one pad for each LED location. The LED has one clipped/notched corner; align this corner with the key (white dot or similar mark) on the PCB silkscreen.
-![image](photo/41.JPG)
+![image](photo/41.jpg)
 
 #### Installation of PLS pin connectors
 
 Solder one end pin first to fix the position. Then solder the remaining pins. Trim the pins on the reverse side.
-![image](photo/42.JPG)
-![image](photo/43.JPG)
+![image](photo/42.jpg)
+![image](photo/43.jpg)
 
 #### Installation of the encoder
 
 Insert the encoder into the holes and solder its pins on the reverse side. Also, solder the two large mounting tabs for stability.
-![image](photo/44.JPG)
-![image](photo/45.JPG)
+![image](photo/44.jpg)
+![image](photo/45.jpg)
 
 ### Preparing the touchpad module PCB
 
 #### Installation of PLS pin connectors
 
 Solder one end pin first to fix the position. Then solder the remaining pins. Trim the pins on the reverse side.
-![image](photo/46.JPG)
-![image](photo/47.JPG)
+![image](photo/46.jpg)
+![image](photo/47.jpg)
 
 #### Installation of the PH2.0 4 pins, 2mm connector
 
 Place the connector according to the silkscreen outline on the PCB and solder its pins.
-![image](photo/48.JPG)
-![image](photo/49.JPG)
-![image](photo/50.JPG)
+![image](photo/48.jpg)
+![image](photo/49.jpg)
+![image](photo/50.jpg)
 
 
 ### Main body assembly
@@ -343,57 +343,57 @@ Place the connector according to the silkscreen outline on the PCB and solder it
 #### Installation of switches 
 
 First, install switches into the case as shown in the picture. These will help align the PCBs.
-![image](photo/51.JPG)
+![image](photo/51.jpg)
 
 #### Installation of the thumb cluster PCB
 
 Place the thumb cluster PCB onto the switches and secure it with M2x4 screws.
-![image](photo/52.JPG)
+![image](photo/52.jpg)
 
 #### Installation of the switchplate
 
 Align the Switchplate over the installed switches. While pressing it firmly against the case, fasten one M2x4 screw near the thumb cluster area as shown.
-![image](photo/53.JPG)
-![image](photo/54.JPG)
+![image](photo/53.jpg)
+![image](photo/54.jpg)
 
 Then, fasten the remaining M2x4 screws. The result should look like the picture.
-![image](photo/55.JPG)
+![image](photo/55.jpg)
 
 #### Installation of magnets into the case
 
 **Very important!** Ensure you maintain consistent polarity for the magnets. All magnets on the main case halves should have the *same pole* facing outwards. Magnets on the modules will need the *opposite pole* facing outwards to attract. Use one magnet to test the polarity of others before inserting.
 
 Press the magnets into the designated holes using pliers, as shown.
-![image](photo/56.JPG)
-![image](photo/57.JPG)
+![image](photo/56.jpg)
+![image](photo/57.jpg)
 
 #### Installation of brass inserts
 
 Using a heated soldering iron, carefully press five M3x4 brass inserts into the holes around the perimeter of the case half, as shown. Apply gentle, steady pressure until the insert is flush with the plastic surface.
-![image](photo/58.JPG)
-![image](photo/59.JPG)
+![image](photo/58.jpg)
+![image](photo/59.jpg)
 
 #### Installation of the MCU holder
 
 Take the male PLS 11-Pin connector and insert it into the female PBS 11-Pin socket on the prepared MCU holder, as shown.
-![image](photo/60.JPG)
+![image](photo/60.jpg)
 
 Position the MCU holder in the case and fasten the M3x4 screw as shown.
-![image](photo/61.JPG)
+![image](photo/61.jpg)
 
 Next, while pressing the MCU holder down firmly, solder each pin of the male PLS connector to the corresponding pads on the Switchplate PCB.
-![image](photo/62.JPG)
-![image](photo/63.JPG)
+![image](photo/62.jpg)
+![image](photo/63.jpg)
 
 #### Connecting the cable-connectors
 
 Connect the Thumb cluster PCB to the MCU Holder PCB using the SH1.0 5-pin cable-connector.
-![image](photo/64.JPG)
+![image](photo/64.jpg)
 
 #### Installation of remaining switches and keyboard check
 
 After assembling both halves similarly, install all the remaining switches. Connect the two halves using the Type-C to Type-C cable and connect the keyboard to the PC.
-![image](photo/65.JPG)
+![image](photo/65.jpg)
 
 Next, you need to check the keyboard:
 -   Go to [Vial](https://get.vial.today/download/).
@@ -405,36 +405,36 @@ If all keys work correctly, proceed to install the bottom plates.
 #### Installation of the bottom plate and keycaps
 
 Place the bottom plate onto the case half and fasten it using M3x4 screws. Then, apply the silicone legs.
-![image](photo/66.JPG)
-![image](photo/67.JPG)
+![image](photo/66.jpg)
+![image](photo/67.jpg)
 
 Install your favorite keycaps!
 
 ### Encoder module assembly
-![image](photo/68.JPG)
+![image](photo/68.jpg)
 
 #### Installation of LED insert (Galaxy black case)
 
 Press the LED insert (diffuser) into the hole for the LED, as shown.
-![image](photo/69.JPG)
-![image](photo/70.JPG)
+![image](photo/69.jpg)
+![image](photo/70.jpg)
 
 #### Installation of magnets
 
 Press the magnets into the holes. Remember: these magnets must have the opposite polarity facing outwards compared to the magnets on the main case.
-![image](photo/71.JPG)
+![image](photo/71.jpg)
 
 #### Installation of the PCB
 
 Place the prepared Encoder Module PCB into the module case and fasten it with two M2x4 screws.
-![image](photo/72.JPG)
+![image](photo/72.jpg)
 
 #### Installation of the cover, knob, and bumpons
 
 Snap the bottom cover into place. Apply the bumpons/silicone legs. Press the encoder knob onto the encoder shaft.
-![image](photo/73.JPG)
-![image](photo/74.JPG)
-![image](photo/75.JPG)
+![image](photo/73.jpg)
+![image](photo/74.jpg)
+![image](photo/75.jpg)
 
 ### Trackball module assembly
 ![image](photo/76.JPG)
@@ -469,22 +469,22 @@ Snap the bottom cover into place. Apply the bumpons/silicone legs. Place the 38m
 #### Installation of the cable-connector
 
 Solder the PH2.0 cable-connector wires to the Azoteq TPS43 touchpad PCB as shown. Optionally, apply hot glue over the solder points.
-![image](photo/86.JPG)
-![image](photo/87.JPG)
+![image](photo/86.jpg)
+![image](photo/87.jpg)
 
 #### Installation of the touchpad surface
 
 Peel off the protective films from the touchpad surface piece and the Azoteq touchpad itself. Carefully adhere the surface piece to the touchpad (the glue will already be applied to the touchpad).
-![image](photo/88.JPG)
-![image](photo/89.JPG)
-![image](photo/90.JPG)
-![image](photo/91.JPG)
+![image](photo/88.jpg)
+![image](photo/89.jpg)
+![image](photo/90.jpg)
+![image](photo/91.jpg)
 
 #### Installation of the touchpad into the case
 
 Place the assembled touchpad into the module case as shown. Route the cable carefully.
-![image](photo/92.JPG)
-![image](photo/93.JPG)
+![image](photo/92.jpg)
+![image](photo/93.jpg)
 ![image](photo/94.JPG)
 
 #### Installation of the PCB
@@ -506,4 +506,4 @@ Snap the bottom cover into place and apply the bumpons/silicone legs.
 ![image](photo/100.JPG)
 
 Your HPDv2 is ready! Enjoy the comfort and ergonomics!
-![image](photo/101.JPG)
+![image](photo/101.jpg)
