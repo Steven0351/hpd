@@ -24,7 +24,8 @@ This keyboard was designed with FDM printing in mind, the goal was to create a p
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 
 ### Build guide
-Coming soon
+- [English](https://github.com/ergohaven/hpd/blob/main/build_guide/build_guide_en.md)
+- [Russian](https://github.com/ergohaven/hpd/blob/main/build_guide/build_guide_ru.md)
 
 ### BOM
 #### Main case
