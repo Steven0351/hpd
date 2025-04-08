@@ -8,7 +8,7 @@
 -   1 pc. Thumb cluster PCB (FR4, 0.8mm thickness)
 -   1 pc. MCU holder PCB (FR4, 1mm thickness)
 -   1 pc. 3D printed case (right and left halves)
--   2 pcs. RP2040 Zero MCU [(example)](https:aliexpress.ru/item/1005008447219836.html?sku_id=12000045180795185&spm=a2g2w.productlist.search_results.2.11fa5bf7dfP3y0)
+-   2 pcs. RP2040 Zero MCU [(example)](https://aliexpress.ru/item/1005008447219836.html?sku_id=12000045180795185&spm=a2g2w.productlist.search_results.2.11fa5bf7dfP3y0)
 -   60 pcs. MX Hotswap Sockets [(example)](https://aliexpress.ru/item/32965920593.html?sku_id=10000014425721931&spm=a2g2w.productlist.search_results.14.59c979f1dQrDJ8)
 -   60 pcs. 1N4148W Diodes (SOD-123) [(example)](https://aliexpress.ru/item/1005008585308341.html?sku_id=12000045839144539&spm=a2g2w.productlist.search_results.0.4a7521a1FSq2Fa)
 -   2 pcs. PLS pin connectors, male: 11 Pins, 2.54mm, 90 degree [(example)](https://aliexpress.ru/item/1005003912826649.html?spm=a2g2w.detail.rcmdprod.6.432d58d7GxW4nu&mixer_rcmd_bucket_id=UnknownMixerAbId&pdp_trigger_item_id=0_1005008592294666&ru_algo_pv_id=597bb7-61b690-22faee-47ad94-1743001200&scenario=aerSimilarItemPdpRcmd&sku_id=12000027451167444&traffic_source=recommendation&type_rcmd=core)
@@ -33,11 +33,11 @@
 
 -   1 pc. PCB (FR4, 1mm thickness)
 -   1 pc. 3D printed case
--   1 pc. EC11 Encoder
+-   1 pc. EC11 Encoder [(example)](https://aliexpress.ru/item/1005006781489585.html?sku_id=12000043067334682&spm=a2g2w.productlist.search_results.2.7d7159a15ouGh6)
 -   1 pc. PLS pin connectors, male: 9 Pins, 2.54mm, 90 degree [(example)](https://aliexpress.ru/item/1005005614848270.html)
 -   1 pc. 1N4148W Diode (SOD-123)
--   1 pc. LED sk6812 mini-e
--   2 pcs. Magnets n52 5x10x2 mm
+-   1 pc. LED sk6812 mini-e [(example)](https://aliexpress.ru/item/1005005237439694.html?sku_id=12000034757484069&spm=a2g2w.productlist.search_results.0.560d66d0NCNPXQ)
+-   2 pcs. Magnets n52 5x10x2 mm [(example)][(example)](https://aliexpress.ru/item/1005005614848270.html)
 -   2 pcs. 3M bumpons/silicone legs [(example)](https://aliexpress.ru/item/32912066603.html)
 -   1 pc. Knob for EC11 Encoder, Diameter 26mm, Height 17mm
 -   2 pcs. LED insert (for Galaxy black case)
@@ -48,9 +48,9 @@
 -   1 pc. 3D printed case
 -   1 pc. Azoteq TPS43 Touchpad
 -   1 pc. PLS pin connectors, male: 9 Pins, 2.54mm, 90 degree [(example)](https://aliexpress.ru/item/1005005614848270.html)
--   1 pc. PH2.0 4 pins, 2mm, 90 degree connector
--   1 pc. PH2.0 4 Pins, 2mm, 6mm, one head cable-connector
--   2 pcs. Magnets n52 5x10x2 mm
+-   1 pc. PH2.0 4 pins, 2mm, 90 degree connector [(example)](https://aliexpress.ru/item/1005008351868561.html?sku_id=12000044695299516&spm=a2g2w.productlist.search_results.0.3eee6579S06I58)
+-   1 pc. PH2.0 4 Pins, 2mm, 6mm, one head cable-connector [(example)](https://aliexpress.ru/item/32936172012.html?sku_id=12000046043793589&spm=a2g2w.productlist.search_results.1.3eee6579S06I58)
+-   2 pcs. Magnets n52 5x10x2 mm [(example)](https://aliexpress.ru/item/1005001564760861.html?sku_id=12000039046985487&spm=a2g2w.productlist.search_results.2.439915f0iwf2ym)
 -   2 pcs. 3M bumpons/Silicone legs [(example)](https://aliexpress.ru/item/32912066603.html)
 -   1 pc. Touchpad surface 40x43x1 mm with 3mm rounded corners
 -   1 pc. Touchpad protective film PVC 40x43 mm with 3mm rounded corners
@@ -62,15 +62,15 @@
 -   1 pc. PMW3389DM sensor + lens
 -   1 pc. TPS73601DBVR (Voltage Regulator)
 -   1 pc. PLS pin connectors, male: 9 Pins, 2.54mm, 90 degree [(example)](https://aliexpress.ru/item/1005005614848270.html)
--   1 pc. Resistor 0805 10 kOhm
--   1 pc. Resistor 0805 39 Ohm
--   1 pc. Resistor 0805 37.4 kOhm
--   1 pc. Resistor 0805 63.4 kOhm
--   3 pcs. Capacitor 0805 100 nF
--   1 pc. Capacitor 0805 1 uF
--   1 pc. Capacitor 0805 4.7 uF
--   1 pc. Capacitor 0805 10 uF
--   2 pcs. Magnets n52 5x10x2 mm
+-   1 pc. Resistor 0805 10 kOhm [(example)](https://aliexpress.ru/item/1005004542018347.html?sku_id=12000029542986632&spm=a2g2w.productlist.search_results.2.727b1be19xabCU)
+-   1 pc. Resistor 0805 39 Ohm [(example)](https://aliexpress.ru/item/1005004542018347.html?sku_id=12000029542986574&spm=a2g2w.productlist.search_results.2.727b1be19xabCU)
+-   1 pc. Resistor 0805 37.4 kOhm [(example)](https://aliexpress.ru/item/1005008488375993.html?sku_id=12000045364476937&spm=a2g2w.productlist.search_results.5.56c540d3ajSsIj)
+-   1 pc. Resistor 0805 63.4 kOhm [(example)](https://aliexpress.ru/item/1005007715575103.html?sku_id=12000041948249038&spm=a2g2w.productlist.search_results.0.25fb40d3PmR7Dv)
+-   3 pcs. Capacitor 0805 100 nF [(example)](https://aliexpress.ru/item/1005007108081207.html?sku_id=12000039428469197&spm=a2g2w.productlist.search_results.6.59504ce5ZPjDEg)
+-   1 pc. Capacitor 0805 1 uF [(example)](https://aliexpress.ru/item/1005007108081207.html?sku_id=12000039428469222&spm=a2g2w.productlist.search_results.6.59504ce5ZPjDEg)
+-   1 pc. Capacitor 0805 4.7 uF [(example)](https://aliexpress.ru/item/1005007108081207.html?sku_id=12000039428469230&spm=a2g2w.productlist.search_results.6.59504ce5ZPjDEg)
+-   1 pc. Capacitor 0805 10 uF [(example)](https://aliexpress.ru/item/1005007108081207.html?sku_id=12000039428469235&spm=a2g2w.productlist.search_results.6.59504ce5ZPjDEg)
+-   2 pcs. Magnets n52 5x10x2 mm [(example)](https://aliexpress.ru/item/1005001564760861.html?sku_id=12000039046985487&spm=a2g2w.productlist.search_results.2.439915f0iwf2ym)
 -   2 pcs. 3M bumpons/Silicone legs [(example)](https://aliexpress.ru/item/32912066603.html)
 -   1 pc. Ball 38 mm
 -   3 pcs. Bearing balls steel/ceramic diameter 3mm

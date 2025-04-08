@@ -8,7 +8,7 @@
 - 1 шт. Плата для клавиш тамбкластера (FR4, 0.8мм толщина)
 - 1 шт. Плата холдера контроллера (FR4, 1мм толщина)
 - 1 шт. 3D корпус (правая и левая половинки)
-- 2 шт. RP2040 Zero микроконтроллер [(пример)](https:aliexpress.ru/item/1005008447219836.html?sku_id=12000045180795185&spm=a2g2w.productlist.search_results.2.11fa5bf7dfP3y0)
+- 2 шт. RP2040 Zero микроконтроллер [(пример)](https://aliexpress.ru/item/1005008447219836.html?sku_id=12000045180795185&spm=a2g2w.productlist.search_results.2.11fa5bf7dfP3y0)
 - 60 шт. MX Хотсвап Сокеты [(пример)](https://aliexpress.ru/item/32965920593.html?sku_id=10000014425721931&spm=a2g2w.productlist.search_results.14.59c979f1dQrDJ8)
 - 60 шт. 1N4148W Диоды (SOD-123) [(пример)](https://aliexpress.ru/item/1005008585308341.html?sku_id=12000045839144539&spm=a2g2w.productlist.search_results.0.4a7521a1FSq2Fa)
 - 2 шт. PLS пин-коннекторы угловые, папа : 11 пинов, 2.54мм, угловые [(пример)](https://aliexpress.ru/item/1005003912826649.html?spm=a2g2w.detail.rcmdprod.6.432d58d7GxW4nu&mixer_rcmd_bucket_id=UnknownMixerAbId&pdp_trigger_item_id=0_1005008592294666&ru_algo_pv_id=597bb7-61b690-22faee-47ad94-1743001200&scenario=aerSimilarItemPdpRcmd&sku_id=12000027451167444&traffic_source=recommendation&type_rcmd=core)
@@ -39,14 +39,14 @@
 - 1 шт. LED sk6812 mini-e [(пример)](https://aliexpress.ru/item/1005005237439694.html?sku_id=12000034757484069&spm=a2g2w.productlist.search_results.0.560d66d0NCNPXQ)
 - 2 шт. Магниты n52 5х10х2 мм [(пример)](https://aliexpress.ru/item/1005001564760861.html?sku_id=12000039046985487&spm=a2g2w.productlist.search_results.2.439915f0iwf2ym)
 - 2 шт. 3M бампоны/Силиконовые ножки [(пример)](https://aliexpress.ru/item/32912066603.html)
-- 1 шт. Колпачок для энкодера ЕС11 диаметр 26мм высота 17мм [(пример)]()
+- 1 шт. Колпачок для энкодера ЕС11 диаметр 26мм высота 17мм
 - 2 шт. Вставка для светодиодов (для Galaxy black)
 
 #### Тачпад
 
 - 1 шт. Плата (FR4, 1мм толщина) 
 - 1 шт. 3D корпус
-- 1 шт. Azoteq TPS43 [(пример)]()
+- 1 шт. Azoteq TPS43 
 - 1 шт. PLS пин-коннекторы угловые, папа : 9 пинов, 2.54мм, угловые [(пример)](https://aliexpress.ru/item/1005003912826649.html?spm=a2g2w.detail.rcmdprod.6.432d58d7GxW4nu&mixer_rcmd_bucket_id=UnknownMixerAbId&pdp_trigger_item_id=0_1005008592294666&ru_algo_pv_id=597bb7-61b690-22faee-47ad94-1743001200&scenario=aerSimilarItemPdpRcmd&sku_id=12000027451167442&traffic_source=recommendation&type_rcmd=core)
 - 1 шт. PH2.0 4 pins, 2mm, 90 degree разъём [(пример)](https://aliexpress.ru/item/1005008351868561.html?sku_id=12000044695299516&spm=a2g2w.productlist.search_results.0.3eee6579S06I58)
 - 1 шт. PH2.0 4 Pins, 2mm, 6mm, one head кабель-коннектор [(пример)](https://aliexpress.ru/item/32936172012.html?sku_id=12000046043793589&spm=a2g2w.productlist.search_results.1.3eee6579S06I58)
@@ -59,7 +59,7 @@
 
 - 1 шт. Плата (FR4, 1мм толщина) 
 - 1 шт. 3D корпус
-- 1 шт. PWM3389DM сенсор + линза [(пример)]()
+- 1 шт. PWM3389DM сенсор + линза 
 - 1 шт. TPS73601DBVR [(пример)](https://aliexpress.ru/item/1005008567384914.html?sku_id=12000045752073427&spm=a2g2w.productlist.search_results.0.7ef61ca9pgc6eM)
 - 1 шт. PLS пин-коннекторы угловые, папа : 9 пинов, 2.54мм, угловые [(пример)](https://aliexpress.ru/item/1005003912826649.html?spm=a2g2w.detail.rcmdprod.6.432d58d7GxW4nu&mixer_rcmd_bucket_id=UnknownMixerAbId&pdp_trigger_item_id=0_1005008592294666&ru_algo_pv_id=597bb7-61b690-22faee-47ad94-1743001200&scenario=aerSimilarItemPdpRcmd&sku_id=12000027451167442&traffic_source=recommendation&type_rcmd=core)
 - 1 шт. Резистор 0805 10 kOm [(пример)](https://aliexpress.ru/item/1005004542018347.html?sku_id=12000029542986632&spm=a2g2w.productlist.search_results.2.727b1be19xabCU)
@@ -72,7 +72,7 @@
 - 1 шт. Конденсатор 0805 10 uF [(пример)](https://aliexpress.ru/item/1005007108081207.html?sku_id=12000039428469235&spm=a2g2w.productlist.search_results.6.59504ce5ZPjDEg)
 - 2 шт. Магниты n52 5х10х2 мм [(пример)](https://aliexpress.ru/item/1005001564760861.html?sku_id=12000039046985487&spm=a2g2w.productlist.search_results.2.439915f0iwf2ym)
 - 2 шт. 3M бампоны/Силиконовые ножки [(пример)](https://aliexpress.ru/item/32912066603.html)
-- 1 шт. Шар 38 мм [(пример)]()
+- 1 шт. Шар 38 мм 
 - 3 шт. Шарики для подшипников стальные/керамические диаметр 3мм [(пример)](https://aliexpress.ru/item/1005006326053912.html?sku_id=12000036771299762&spm=a2g2w.productlist.search_results.2.78b914ab0TADHT)
 
 
