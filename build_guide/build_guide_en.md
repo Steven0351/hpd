@@ -388,7 +388,7 @@ Next, while pressing the MCU holder down firmly, solder each pin of the male PLS
 #### Connecting the cable-connectors
 
 Connect the Thumb cluster PCB to the MCU Holder PCB using the SH1.0 5-pin cable-connector.
-![image](photo/64.jpg)
+![image](photo/64.JPG)
 
 #### Installation of remaining switches and keyboard check
 
@@ -411,13 +411,13 @@ Place the bottom plate onto the case half and fasten it using M3x4 screws. Then,
 Install your favorite keycaps!
 
 ### Encoder module assembly
-![image](photo/68.jpg)
+![image](photo/68.JPG)
 
 #### Installation of LED insert (Galaxy black case)
 
 Press the LED insert (diffuser) into the hole for the LED, as shown.
-![image](photo/69.jpg)
-![image](photo/70.jpg)
+![image](photo/69.JPG)
+![image](photo/70.JPG)
 
 #### Installation of magnets
 
@@ -506,4 +506,4 @@ Snap the bottom cover into place and apply the bumpons/silicone legs.
 ![image](photo/100.JPG)
 
 Your HPDv2 is ready! Enjoy the comfort and ergonomics!
-![image](photo/101.jpg)
+![image](photo/101.png)
